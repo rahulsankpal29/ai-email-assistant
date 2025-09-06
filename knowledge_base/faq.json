@@ -1,0 +1,17 @@
+{
+  "common_issues": {
+    "login_problems": "If you're having trouble logging in, try resetting your password using the 'Forgot Password' link on the login page.",
+    "payment_issues": "For payment-related issues, please ensure your card details are correct and that your bank has authorized the transaction.",
+    "website_not_loading": "If our website isn't loading, please check your internet connection and try clearing your browser cache."
+  },
+  "product_info": {
+    "product_a": "Product A is our flagship solution designed for enterprise customers with advanced features.",
+    "product_b": "Product B is our mid-tier solution perfect for small to medium businesses.",
+    "product_c": "Product C is our entry-level solution for individuals and startups."
+  },
+  "company_info": {
+    "support_hours": "Our support team is available Monday to Friday, 9 AM to 6 PM EST.",
+    "contact_number": "For urgent matters, you can reach us at 1-800-123-4567.",
+    "email": "For non-urgent inquiries, please email info@company.com."
+  }
+}
